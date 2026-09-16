@@ -1,0 +1,50 @@
+# 'version' attribute purane docker-compose format ke liye tha, ab obsolete hai
+# (Docker isko ignore kar dega, isse koi problem nahi hoti)
+version: '3'
+
+services:
+  # OpenSearch database ka container -- yahi humara search engine chalega
+  opensearch-node:
+    image: opensearchproject/opensearch:2.15.0
+    container_name: opensearch-node
+    restart: unless-stopped
+    environment:
+      # single-node mode -- ek hi machine par cluster chalega (POC/local ke liye kaafi hai)
+      - discovery.type=single-node
+      # Security plugin (login/password) disable kiya, taaki POC mein bina auth ke
+      # seedha connect ho sake (production mein ye enable karna chahiye)
+      - DISABLE_SECURITY_PLUGIN=true
+      # OpenSearch ko kitni memory (RAM) use karne dena hai, wo set kiya
+      - "OPENSEARCH_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      # Host machine ka port 9201 -> container ke andar OpenSearch ka default port 9200
+      # (9201 isliye kyunki 9200 kisi aur cheez se clash kar raha tha)
+      - "9201:9200"
+      # Performance Analyzer plugin ka port
+      - "9601:9600"
+    volumes:
+      # Data ko container ke bahar bhi save karta hai, taaki container restart hone par
+      # bhi indexed data delete na ho
+      - opensearch-data:/usr/share/opensearch/data
+
+  # OpenSearch Dashboards -- ek web UI jisse hum browser mein data dekh/query kar sakte hain
+  opensearch-dashboards:
+    image: opensearchproject/opensearch-dashboards:2.15.0
+    container_name: opensearch-dashboards
+    restart: unless-stopped
+    environment:
+      # Dashboards ko batana hai ki OpenSearch kahan chal raha hai
+      # (container ke andar wala internal port 9200 use hota hai, host port nahi)
+      - OPENSEARCH_HOSTS=["http://opensearch-node:9200"]
+      # Dashboards ka security plugin bhi disable kiya (OpenSearch ki tarah)
+      - DISABLE_SECURITY_DASHBOARDS_PLUGIN=true
+    ports:
+      # Host port 5602 -> Dashboards ka default port 5601
+      - "5602:5601"
+    # Ye container tabhi start hoga jab opensearch-node pehle se chal raha ho
+    depends_on:
+      - opensearch-node
+
+# Named volume define kiya -- isi ko "opensearch-node" service ke volumes mein use kiya hai
+volumes:
+  opensearch-data:
