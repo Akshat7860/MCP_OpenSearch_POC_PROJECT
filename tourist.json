@@ -1,0 +1,884 @@
+[
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "3N6ZdYgBvAOITNx47GRR",
+                "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038-1024x768.jpeg",
+                "title": "Nature&#8217;s lap &#8211; Muttal",
+                "description": "<div class=\"pull-right sample-img-cntr\"><img decoding=\"async\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038-300x225.jpeg\" alt=\"falls\" /></div>\n<p>The Muttal Village is situated about 15km away from Attur in the Attur-Mullaivadi road, the waterfalls situated in the spot called Aaniavari in the Forest area about 3km away from the village.</p>\n<p>&nbsp;</p>\n<p>The heavy flow of water in the Aanaivari water falls in Muttal village in Attur forest range and the special arrangements made by the Forest Department has been attracting a large number of tourists from across the Western districts.</p>\n<div class=\"pull-left sample-img-cntr\"><img decoding=\"async\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022091-300x225.jpg\" alt=\"Collector Boating Image\" /></div>\n<p>The Forest Department has developed the waterfalls situated in a picturesque highly location into a tourist spot has take efforts to maintain the waterfalls and the surrounding areas.</p>\n<p>The Kalvarayan Hills experience rain fall during both the South West and North East Monsoon. The Forest Department converted this area into a tourist spot. The water flowing from the hills through the falls reaches the local lake in village. The Department has also introduced merry boating facility in the lake, for the benefit of the visitors.</p>\n<div class=\"pull-right sample-img-cntr\"><img decoding=\"async\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022064-300x225.jpeg\" alt=\"muttal boating\" /></div>\n<p>The Forest Department is operating vehicle to enable the tourists to reach the waterfalls from the lake. The precautionary measures has been taken for the tourists by providing Life-Jackets during the boat ride. A fee of Rs.20 for the adults and Rs.10 for the Children is collected for boating.</p>\n<div class=\"pull-left sample-img-cntr\"><img decoding=\"async\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022035-300x225.jpeg\" alt=\"muttal\" /></div>\n<p>&nbsp;</p>\n<p>The Forest Department has also constructed rooms on the bank of the lake and they are seeing offered to the tourists at reasonable rate.</p>\n<p>Contact Number : 04282-240839</p>\n<p>&nbsp;</p>\n<div></div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+                "how_to_reach": {
+                    "by_air": "",
+                    "by_rail": "",
+                    "by_road": ""
+                },
+                "url": "https://salem.nic.in/tourist-place/natures-lap-muttal/",
+                "latitude": 0,
+                "longitude": 0,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Salem",
+                "cityID": 16,
+                "districtName": "Salem",
+                "district_lgd_code": 584,
+                "state_lgd_code": 33,
+                "stateName": "Tamil Nadu",
+                "statecode": "TN",
+                "stateID": 29,
+                "placeCategoryName": [
+                    "Natural / Scenic beauty"
+                ],
+                "placeCategoryID": [
+                    324
+                ],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 270903,
+                "imageList": {
+                    "title": "muttal falls",
+                    "alt": "falls",
+                    "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038-1024x768.jpeg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038-150x150.jpeg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038.jpeg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "Collector Boating",
+                        "alt": "Collector Boating Image",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022091-1024x768.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022091-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022091.jpg"
+                    },
+                    {
+                        "title": "boating muttal",
+                        "alt": "muttal boating",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022064-1024x768.jpeg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022064-150x150.jpeg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022064.jpeg"
+                    },
+                    {
+                        "title": "muttal falls",
+                        "alt": "falls",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038-1024x768.jpeg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038-150x150.jpeg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022038.jpeg"
+                    },
+                    {
+                        "title": "muttal river",
+                        "alt": "muttal",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022035-1024x768.jpeg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022035-150x150.jpeg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022035.jpeg"
+                    }
+                ],
+                "created_at": "2018-02-20T15:16:29",
+                "updated_at": "2021-12-29T20:19:15",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "ta"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "3t6ZdYgBvAOITNx47GSP",
+                "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018021620-1024x680.jpg",
+                "title": "Sangagiri Fort",
+                "description": "<div class=\"pull-right sample-img-cntr\"><img decoding=\"async\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018021643-300x199.jpg\" alt=\"Sangagiri Fort image2\" /></div>\n<p>Sankagiri Fort is a historical fort maintained by the Archaeological Survey of India. It is located 22 km from the city of Erode and 38 km from Salem.  Fort was built in the 15th Century by the Vijayanagar Empire. It has 12 fort walls built on and built by the British. The fort served as a British tax storage facility for Kongu Nadu. It was an important military base for Tippu Sultan and later for the British army.  This is because only one side of the hill is climbable, as all the others are too steep to climb. This has a death well, granary, two masjiths, 2 Varadhraja Perumal temples, former British Army administrative buildings, and cemeteries formerly used by armies that were stationed at the fort. Dheeran Chinnamalai was hanged by British in this fort.</p>\n<p>&nbsp;</p>\n",
+                "how_to_reach": {
+                    "by_air": "",
+                    "by_rail": "",
+                    "by_road": ""
+                },
+                "url": "https://salem.nic.in/tourist-place/sangagiri-fort/",
+                "latitude": 0,
+                "longitude": 0,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Salem",
+                "cityID": 16,
+                "districtName": "Salem",
+                "district_lgd_code": 584,
+                "state_lgd_code": 33,
+                "stateName": "Tamil Nadu",
+                "statecode": "TN",
+                "stateID": 29,
+                "placeCategoryName": [],
+                "placeCategoryID": [],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 270825,
+                "imageList": {
+                    "title": "Sangagiri Fort",
+                    "alt": "Sangagiri Fort image",
+                    "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018021620-1024x680.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018021620-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018021620.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "Sankari Fort",
+                        "alt": "Sankari Fort image1",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122970.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122970-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122970.jpg"
+                    },
+                    {
+                        "title": "Sankari Fort",
+                        "alt": "Sankari Fort images2",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122956.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122956-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122956.jpg"
+                    },
+                    {
+                        "title": "Sankari Fort",
+                        "alt": "Sankari Fort image3",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122985.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122985-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122985.jpg"
+                    },
+                    {
+                        "title": "Sankari Fort",
+                        "alt": "Sankari Fort images4",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122944.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122944-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/12/2017122944.jpg"
+                    },
+                    {
+                        "title": "Sankari fort temple",
+                        "alt": "Fort Temple",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112532.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112532-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112532.jpg"
+                    }
+                ],
+                "created_at": "2018-02-16T14:51:53",
+                "updated_at": "2018-05-09T11:27:23",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "ta"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "4N6ZdYgBvAOITNx47GTT",
+                "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783.jpg",
+                "title": "Yercaud",
+                "description": "<p><strong><span style=\"font-size: 14pt;\">YERCAUD</span> </strong><strong>:</strong><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-216503 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783-300x153.jpg\" alt=\"Yercaudlakeimage\" width=\"300\" height=\"153\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783-300x153.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783.jpg 314w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<p>Yercaud is a hill station near Salem, in the Servarayan range of hills (anglicized as Shevaroys) in the Eastern Ghats. It is at an altitude of 1515 metres (4969 feet) above the see level. The total extent of Yercaud Taluk is 382.67 Sq.kms. including Reserve Forest. The entire Taluk is a Township. Yercaud has also a Panchayat Union with its Head Quarters at Yercaud and its Jurisdiction is the same as for Yercaud Taluk. Popular as the “Poor man’s Ooty”. Yercaud is one of the low cost hill station destination in India.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Anna Park:</strong><img decoding=\"async\" loading=\"lazy\" class=\"size-full wp-image-216583 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017092786.jpg\" alt=\"Annaparkimage\" width=\"299\" height=\"168\" /></span></p>\n<p>The Park is situated next to Lake. It is typical park used to host the “Flower Show” in the month of May. The “Japanese Park” inside Anna Park is a must see. The entrance ticket adult Rs.15/- children’s Rs.10/-, Video Camera Rs.50/- Still Camera Rs.25/-</p>\n<p>Ph No.04281-222126.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Bear’s Cave:</strong></span><img decoding=\"async\" loading=\"lazy\" class=\" wp-image-249563 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112957-300x240.jpg\" alt=\"Beers Cave image\" width=\"277\" height=\"221\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112957-300x240.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112957.jpg 500w\" sizes=\"(max-width: 277px) 100vw, 277px\" /></p>\n<p>The main part of the cave is situated about 7 feet below the ground level and contains a deeper gorge which is believed by the local people to lead up to the cave situated in the Shervaroyan Temple.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Horticultural Farm   Saplings of various plants are available at reasonable price. Entrance ticket Rs.30/-for adult and Rs.50/- for Camera.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Botanical Survey of India:</strong></span></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-249603 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112921-300x210.jpg\" alt=\"Botanical Garden yercaud images\" width=\"300\" height=\"210\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112921-300x210.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112921-768x537.jpg 768w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112921.jpg 794w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<p>Well maintained Botanical Garden by the BSI contains a rich collection of plants. A “Bell Rock” in the BSI campus makes bell sound when you hit with stone.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Killiyur Falls:</strong></span></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-217543 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017092771-300x210.jpg\" alt=\"killiyurfalls\" width=\"300\" height=\"210\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017092771-300x210.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017092771.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" />3 km from the Yercaud Lake and should be visited after the South West or North East Monsoon. The surplus waterfrom Yercaud Lake and the other reaches of the Shevaroys.</p>\n<p>Ph No.0427-2416449.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Lady’s / Gent’s &amp; Children’s Seat:</strong></span></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-249803 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112971-300x224.jpg\" alt=\"Ladies seat images\" width=\"300\" height=\"224\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112971-300x224.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112971.jpg 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" />There is a natural rock formation in the form of a seat where reportedly a white English Lady spent her evenings viewing the magnificent beauty of the hill.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Shevarayan Temple:</strong></span></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-249663 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112927-300x225.jpg\" alt=\"Temple Inside the Cave (Servarayan Temple), Yercaud images\" width=\"300\" height=\"225\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112927-300x225.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112927.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" />Lord Perumal blesses devotees in the cave Temple. The festival in the month of May is a colourful event in which thousands of tribal people from the hill take part.</p>\n<p>Timing : 6 am to 8 pm</p>\n<p>Ph No.0427-2267845.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>The Big Lake (Boating):</strong><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-249683 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112997-300x225.jpg\" alt=\"Biglake images\" width=\"300\" height=\"225\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112997-300x225.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112997.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" /> </span></p>\n<p>Lake is the only natural lake among all the hill station lakes in the south. Surrounded by a “Deer Park” and “leisure park” and “Tamilnadu Hotel” 9 am to 5.30 pm. Boating fees: Rs.320/- for 8 persons.Rs.110/- for 4 persons, Rs.80/- for 2 persons.</p>\n<p>Ph No.04281-222273</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Pagoda Point:</strong></span></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-249723 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112990-300x205.jpg\" alt=\"Pagoda Point image\" width=\"300\" height=\"205\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112990-300x205.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112990-768x524.jpg 768w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112990.jpg 787w\" sizes=\"(max-width: 300px) 100vw, 300px\" />This lies on the Eastern side of the Yercaud hills and is also known as Pyramid point. Today there is a Rama Temple which lies between this Pagoda. One can get a grand view of Attur and Ayothiapattinam from this picnic spot. It is   5 km from the town.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Sri Raja Rajeswari Temple:</strong></span></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-249743 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112954-300x225.jpg\" alt=\"Shri Raja Rajeswari Temple images\" width=\"300\" height=\"225\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112954-300x225.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112954.jpg 550w\" sizes=\"(max-width: 300px) 100vw, 300px\" />It is 4km from Yercaud on the way to Servarayan Temple. This is said to be the goddess of all gods in the Hindu Pantheon and by praying to her one can attain wealth and prosperity and be elevated to higher levels of spirituality.</p>\n<p>Timing : 7 am to 12 noon &amp; 4 pm to 7 pm.</p>\n<p>Ph No.04281-222354.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;\"><strong>Silk Farm &amp; Rose Garden:</strong></span></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-249763 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112913-300x200.jpg\" alt=\"Silk Farm and Rose Garden images\" width=\"300\" height=\"200\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112913-300x200.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017112913.jpg 700w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<p>One can see the cultivation of Mulberries, the growing of silk worms and the method of silk worms and the method of spinning silk. The Rose Garden is a good collection of colourful Roses and also purchase nursery plants from here 2 km from town.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+                "how_to_reach": {
+                    "by_air": "The nearest Airports is Bangalore (250km) and Coimbatore (190km) .  All are connected to Chennai.",
+                    "by_rail": "The nearest railway station is Salem Junction (35 km)",
+                    "by_road": "There are regular bus services between Yercaud and Salem, which is connected to Chennai, Madurai, Tiruchirappalli, Tiruvannamalai, Coimbatore, Bangalore, Pondicherry and Tirupati among other Places."
+                },
+                "url": "https://salem.nic.in/tourist-place/images-of-yercaudlake/",
+                "latitude": 11.7753,
+                "longitude": 78.2093,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Salem",
+                "cityID": 16,
+                "districtName": "Salem",
+                "district_lgd_code": 584,
+                "state_lgd_code": 33,
+                "stateName": "Tamil Nadu",
+                "statecode": "TN",
+                "stateID": 29,
+                "placeCategoryName": [],
+                "placeCategoryID": [],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 4203,
+                "imageList": {
+                    "title": "Yercaudlake",
+                    "alt": "Yercaudlakeimage",
+                    "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "Yercaudlake",
+                        "alt": "Yercaudlakeimage",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/06/2017092783.jpg"
+                    },
+                    {
+                        "title": "pakodapoint",
+                        "alt": "pakodapointimage",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017092799.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017092799-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017092799.jpg"
+                    },
+                    {
+                        "title": "Boat House yercaud",
+                        "alt": "Boat House",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112560.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112560-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112560.jpg"
+                    },
+                    {
+                        "title": "Boat House Yercaud",
+                        "alt": "Boat House",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112593.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112593-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112593.jpg"
+                    },
+                    {
+                        "title": "YERCAUD HILL VIEW",
+                        "alt": "HILL VIEW",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112592.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112592-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112592.jpg"
+                    },
+                    {
+                        "title": "Yercaud Hills",
+                        "alt": "Yercaud",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112531.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112531-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112531.jpg"
+                    },
+                    {
+                        "title": "Hill View Yercaud",
+                        "alt": "Hill View",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112525.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112525-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112525.jpg"
+                    },
+                    {
+                        "title": "Hill View, Yercaud",
+                        "alt": "Hill View",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112558.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112558-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112558.jpg"
+                    },
+                    {
+                        "title": "Genetic Heritage Garden,Yercaud",
+                        "alt": "Genetic Heritage Garden",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112560-1.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112560-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112560-1.jpg"
+                    },
+                    {
+                        "title": "yercaud view point",
+                        "alt": "view point",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112566.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112566-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112566.jpg"
+                    },
+                    {
+                        "title": "Yercaud Ghat",
+                        "alt": "Yercaudghat",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017100988.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017100988-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/09/2017100988.jpg"
+                    }
+                ],
+                "created_at": "2017-11-06T06:52:06",
+                "updated_at": "2018-03-21T18:50:31",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "ta"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "4d6ZdYgBvAOITNx47WQB",
+                "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110144.jpg",
+                "title": "Kurumbapatti Zoo",
+                "description": "<p><strong>Kurumbapatti Zoological Park:</strong></p>\n<p><strong><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-271148 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022881-300x200.jpg\" alt=\"kurumbapatti image 7\" width=\"300\" height=\"200\" /></strong></p>\n<p>12 km from Salem Bus stand. There is one a small zoological park with natural beautiful</p>\n<p>environmental circumstance.</p>\n<p>Entrance fees: Adult Rs.10/- Childred Rs.5/-</p>\n<p>Ph No.0427-2912197.</p>\n<p>&nbsp;</p>\n",
+                "how_to_reach": {
+                    "by_air": "",
+                    "by_rail": "",
+                    "by_road": ""
+                },
+                "url": "https://salem.nic.in/tourist-place/zoos-parks-falls/",
+                "latitude": 10.6614,
+                "longitude": 77.8692,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Salem",
+                "cityID": 16,
+                "districtName": "Salem",
+                "district_lgd_code": 584,
+                "state_lgd_code": 33,
+                "stateName": "Tamil Nadu",
+                "statecode": "TN",
+                "stateID": 29,
+                "placeCategoryName": [
+                    "Natural / Scenic beauty"
+                ],
+                "placeCategoryID": [
+                    324
+                ],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 224903,
+                "imageList": {
+                    "title": "kurumpampatti zoo",
+                    "alt": "Salem Kurumpampatti zoo",
+                    "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110144.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110144-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110144.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "kurumbapatti zoo 1",
+                        "alt": "kurumbapatti image 3",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022866.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022866-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022866.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 4",
+                        "alt": "kurumbapatti image 4",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022823.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022823-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022823.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 5",
+                        "alt": "kurumbapatti image 5",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022835.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022835-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022835.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 6",
+                        "alt": "kurumbapatti image 6",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022890.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022890-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022890.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 7",
+                        "alt": "kurumbapatti image 7",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022881-e1521020383336.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022881-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022881-e1521020383336.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 8",
+                        "alt": "kurumbapatti image 8",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022896.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022896-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022896.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 9",
+                        "alt": "kurumbapatti image 9",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022853.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022853-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022853.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 10",
+                        "alt": "kurumbapatti image 10",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022858.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022858-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022858.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 11",
+                        "alt": "kurumbapatti image 11",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022890-1.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022890-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022890-1.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 12",
+                        "alt": "kurumbapatti image 12",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022886.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022886-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022886.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 13",
+                        "alt": "kurumbapatti image 13",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022883.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022883-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022883.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 14",
+                        "alt": "kurumbapatti image 14",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022830-1.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022830-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022830-1.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 15",
+                        "alt": "kurumbapatti img 15",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022866-1.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022866-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022866-1.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 16",
+                        "alt": "kurumbapatti img 16",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022862.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022862-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022862.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 17",
+                        "alt": "kurumbapatti img 17",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022864.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022864-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022864.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 18",
+                        "alt": "kurumbapatti img 18",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/20180228100.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/20180228100-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/20180228100.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 19",
+                        "alt": "kurumbapatti img 19",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022825.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022825-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022825.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 20",
+                        "alt": "kurumbapatti img 20",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022829-1.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022829-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022829-1.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 21",
+                        "alt": "kurumbapatti img 21",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022849-1.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022849-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022849-1.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 22",
+                        "alt": "kurumbapatti img 22",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022851-1024x576.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022851-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022851.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 23",
+                        "alt": "kurumbapatti img 23",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022837.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022837-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022837.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 1",
+                        "alt": "kurumbapatti image1",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022874.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022874-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022874.jpg"
+                    },
+                    {
+                        "title": "kurumbapatti zoo 1",
+                        "alt": "kurumbapatti image 2",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022875.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022875-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/02/2018022875.jpg"
+                    }
+                ],
+                "created_at": "2017-11-01T06:16:19",
+                "updated_at": "2021-12-29T20:16:25",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "ta"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "4t6ZdYgBvAOITNx47WQw",
+                "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110192-1024x768.jpg",
+                "title": "Mettur Dam",
+                "description": "<p><strong>மேட்டூர் அணை – வரலாறு</strong></p>\n<p>காவிரி ஆற்றின் குறுக்கே சேலம் மாவட்டம், மேட்டூரில் மேட்டூர் அணை 1925 ஆம் ஆண்டு துவங்கி  1934 ஆம் ஆண்டு கர்னல் W.M எல்லீஸ் அவர்களின் வடிவமைப்பின்படி ரூ4.5 கோடி மதிப்பீட்டில் கட்டிமுடிக்கப்பட்டது. இந்த அணை கட்டப்பட்ட சமயத்தில் இதுதான் உலகிலேயே உயரமான நேர்கோட்டில் அமைந்த நீர்த்தேக்கமாகும்.</p>\n<p>மேட்டூர் அணையின் மூலம் தமிழ்நாட்டில் உள்ள 12 மாவட்டங்களில் சுமார் 16.05 இலட்சம் ஏக்கர் நிலங்கள் பாசன வசதி பெறுகிறது. மேட்டூர் அணை மற்றும் காவிரி ஆற்றிலிருந்து பல மாவட்ட பொதுமக்களின் குடிநீர், கல்வி நிறுவனங்கள் மற்றும் தொழிற்சாலைகள் பயன்பாட்டிற்காகவும் தண்ணீர் எடுத்து பயன்படுத்தப்பட்டு வருகிறது.</p>\n<p>மேட்டூர் அணையிலிருந்து தண்ணீர் திற்கும்போது அணை மற்றும் சுரங்க மின் நிலையம் மூலம் 250 மெகாவாட் மற்றும் காவிரி ஆற்றில் 7 கதவணை மின் நிலையங்கள் மூலம் மொத்தம் 210 மெகாவாட் மின் உற்பத்தி செய்யப்படுகிறது.</p>\n<p>மேட்டூர் அணை கட்டிமுடிக்கப்பட்டு 83 ஆண்டுகளுக்கு பிறகு முதன்முதலாக அணையின் நீர்பரப்பு பகுதியில் படிந்துள்ள வண்டல் மண்ணை விவசாயிகளுக்கு இலவசமாக வழங்கும் திட்டம் மாண்புமிகு தமிழ்நாடு முதலமைச்சர் அவர்களால் 28-05-2017 அன்று துவக்கப்பட்டு விவசாயிகள் பயனடைந்து வருகின்றனர்.</p>\n<p><strong>மேட்டூர் அணையின் நீரியியல் விவரங்கள்</strong></p>\n<p>அட்சரேகை                                                                            &#8211; 11’  48’  11’’   வடக்கு</p>\n<p>தீர்க்கரேகை                                                                            &#8211; 77’  48’  24’’       கிழக்கு</p>\n<p>அணையின் மொத்த நீளம்                                              – 5300 அடி</p>\n<p>அணையின் அதிகபட்ச உயரம்                                      – 214 அடி</p>\n<p>அணையின் அதிகபட்ச அகலம்                                     – 171 அடி</p>\n<p>அணையின் மேல்பகுதி அகலம்                                    – 20 அடி 5 இன்ச்</p>\n<p>அணையின் மேல்பகுதியில் சாலையின் அகலம்  – 16 அடி</p>\n<p>சுரங்கத்தின் நீளம்                                                                 – 4400 அடி</p>\n<p>அதிகபட்ச நீர்த்தேக்கும் உயரம்                                     – 165 அடி</p>\n<p>உபயோகப்படுத்தக்கூடிய தண்ணீர் உயரம்              – 120 அடி</p>\n<p>அணையின் மொத்த கொள்ளளவு                               – 95660 மி.கன அடி</p>\n<p>அணையின் பயனுள்ள கொள்ளளவு                         – 93470 மி.கன அடி</p>\n<p>முழுநீர்த்தேக்க மட்டத்தில் நீர்பரப்பின் நீளம்       – 33 மைல்கள்</p>\n<p>அதிகபட்ச நீர்பரப்பு பகுதி                                               – 59.25 ச.மைல்கள்</p>\n<p>நீர்பிடிப்பு பகுதி                                                                    – 16300 ச.மைல்கள்</p>\n<p>&nbsp;</p>\n<p><strong>அணையின் மதகுகள்</strong></p>\n<p>16 கண் உபரிநீர் போக்கி     – 16 * 60 அடி * 20 அடி</p>\n<p>8 கண் மேல்மட்ட மதகு     – 8 * 10.6 அடி * 16 அடி</p>\n<p>5 கண் கீழ்மட்ட மதகு         &#8211; 5 * 7 அடி * 14 அடி</p>\n<p>அணைமின் நிலையம்       – 4 விசைபொறி</p>\n<p>சுரங்கமின் நிலையம்        &#8211; 4 விசைபொறி</p>\n<p>&nbsp;</p>\n<p><strong>Mettur Dam:</strong><br />\n60 km from Salem. Mettur Dam is very beautiful place for tourists. The Dam in front of it also adds beauty to it.</p>\n<p><strong>Dam Park: </strong><br />\nA Beautiful park opposite to Dam was formed with Lawns, fountains. Mettur Dam is situated in a village known as Mettur.</p>\n<p>Ph No.04298-242600</p>\n",
+                "how_to_reach": {
+                    "by_air": "",
+                    "by_rail": "",
+                    "by_road": ""
+                },
+                "url": "https://salem.nic.in/tourist-place/mettur-dam/",
+                "latitude": 11.8038,
+                "longitude": 77.8074,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Salem",
+                "cityID": 16,
+                "districtName": "Salem",
+                "district_lgd_code": 584,
+                "state_lgd_code": 33,
+                "stateName": "Tamil Nadu",
+                "statecode": "TN",
+                "stateID": 29,
+                "placeCategoryName": [],
+                "placeCategoryID": [],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 224843,
+                "imageList": {
+                    "title": "Mettur Dam",
+                    "alt": "Salem district Mettur Dam",
+                    "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110192-1024x768.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110192-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110192.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "Mettur Dam",
+                        "alt": "Mettur Dam Side View",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100993.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100993-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100993.jpg"
+                    },
+                    {
+                        "title": "Mettur Dam",
+                        "alt": "Mettur Dam Front View",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100930.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100930-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100930.jpg"
+                    },
+                    {
+                        "title": "Mettur Dam",
+                        "alt": "Mettur Dam Left side view",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100959.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100959-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/10/2017100959.jpg"
+                    },
+                    {
+                        "title": "Mettur River Water",
+                        "alt": "Mettur water",
+                        "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112532-1.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112532-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/11/2020112532-1.jpg"
+                    }
+                ],
+                "created_at": "2017-11-01T06:11:54",
+                "updated_at": "2018-03-19T19:14:47",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "ta"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "5t6ZdYgBvAOITNx47WTg",
+                "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110122.jpg",
+                "title": "Temples &#038; Masjids",
+                "description": "<h2>Temples :<strong><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-271170 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022889-300x195.jpg\" alt=\"Kandasamy kovil\" width=\"300\" height=\"195\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022889-300x195.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022889-768x499.jpg 768w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022889.jpg 885w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></strong></h2>\n<p><strong>Kandhasamy Kovil:</strong><br />\n22 km from Salem on the way to Thiruchengode.Sundhara Kandhaswamy Kovil. One of the seven richest temples in the district.</p>\n<p>Timing: 6 am to 8pm</p>\n<p>Ph No: 04288-287511</p>\n<p><strong>Kumaragiri Murugan Temple:</strong></p>\n<p>This is a small temple for Land Muruga. It is situated on Udayapatti Bye pass Road 6 km from Salem city.</p>\n<p>Ph.No.0427-2242789.</p>\n<p><strong>Lingam (1008) Temple:</strong></p>\n<p>This Temple is controlled by Vinayaga Mission. This temple contains 1008 Lingam with Nandi in the ‘Moolasthanam’. Located in Ariyanoor.</p>\n<p>Timing : 7.30 am to 12.30pm &amp; 4pm to 8pm.</p>\n<p>Ph No. o427-3987000.</p>\n<p><strong>Kottai Mariamman Temple:</strong></p>\n<p>This temple was built during the periods of Chera kings, belongs to Cheranadu. The Goddess is known as Malaimari. Located at Fort.  Salem – 636  001</p>\n<p>Ph.No.0427-2267845.</p>\n<p><strong>Kandhashramam, Udaiyapatti:</strong></p>\n<p>It is 5km from Salem. A temple constructed by Santhanandha Brahmendhra Saraswathi. Adhya-vadhutha Swami. Situated on the extreme northern end of the Jarugu hill on the banks of Kannimar Odai.</p>\n<p>Ph.No.0427-2240660.</p>\n<p><strong>Oothumalai – Sathya Narayana Sithar Peedam :</strong></p>\n<p>6 km from Salem. It has special features as Sri Sathya Narayana Temple which is present on hills, similarly not found anywhere in Tamilnadu.Located. Oothumalai, Seelanaikanpatti.</p>\n<p>Timing : 6 am to 12noon &amp; 2pm to 8 pm.</p>\n<p>Ph No.0427-2465477.</p>\n<p><strong>Siddhar Temple:</strong><br />\nKalangi Siddhar is one among the eighteen Tamil Siddhas. There is one temple dedicated to this. Located at the slope of k</p>\n<p>anja Malai 12 km from Salem on the way to EIampillai.</p>\n<p>Ph No.0427-2491389.</p>\n<p><strong>Alagirinathar Temple:</strong></p>\n<p>Located in the heart of the city near the fort. Popularly known as “Kottai Perumal Koil”. The place also contains temple dedicated to Azhagiri perumal and Mariaman.</p>\n<p>Timing: 6 am to 12 noon &amp; 5 pm to 8 pm.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Sri Suguvaneshwara Temple:</strong></p>\n<h2><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-271168 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022853-210x300.jpg\" alt=\"Sugavaneswaran kovil\" width=\"210\" height=\"300\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022853-210x300.jpg 210w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022853.jpg 637w\" sizes=\"(max-width: 210px) 100vw, 210px\" /></h2>\n<p>This Temple is located near old Salem Bus Stand. There we can find so many historical monuments</p>\n<p>and statue inside the temple.</p>\n<p>Timing: 6 am to 12 noon &amp; 3.30 pm to 8.30 pm. Ph No.0427-2450954.</p>\n<p>&nbsp;</p>\n<p><strong>Utthama Chozhapuram:</strong><br />\n“City of Utthamachozha”, a small town on the Thirumanimuthu Aru. Temple is dedicated to Karapura Nathar.</p>\n<p>Ph No.0427-2221577</p>\n<p><strong>Thanthodreeswarar Temple:</strong><br />\nThis Temple is situated in Belur. 35 km from Salem. The variety of sculptures are famous here.</p>\n<p>Ph No.04292-241400.</p>\n<p><strong>Appa Paithiyam Swamy Temple:</strong><br />\nAppa Paithiyam Swami Temple was born in the zamin family of karur Fort in the year 1859. A temple has bee built on his Samadhi. Several thousands of devotees throng the temple during the birthday of Swami and his Guru pooja on the day of Ashw</p>\n<p>ini in the Tamil month of Thai. The temple is situated near Railway Station.</p>\n<p>Timing : 5.30 am to 12 noon &amp; 5.30 pm to 8.30 pm.</p>\n<p><strong>Aragalur:</strong><br />\nAragalur is about 74 km from Salem. It has two imposing temples. One is dedicated to Sri Kameswara and the other to Karivaradaperumal. There is a big Buddha statue at Thiyaganur village on the periphery of Aragalur village.</p>\n<p>Ph No.04582-260107.</p>\n<p>&nbsp;</p>\n<h2><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-271176 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022821-300x217.jpg\" alt=\"kodandapani ayothiyapatanam kovil\" width=\"300\" height=\"217\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022821-300x217.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022821-768x556.jpg 768w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022821.jpg 819w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></h2>\n<p><strong>Ayodhyapattanam:</strong><br />\n10 km from Salem. A suburban town on the eastern end of Salem City. It is supposed to have been named after Ayodhya. The birth place of Lord Rama. It contains a beautiful Vishnu temple dedicated to Kothandaramar.</p>\n<p>Timing: 7 am to 12 noon &amp; 4 pm to 8 pm.</p>\n<p>Ph No.0427-2253500, 8098127383.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Badrakaliamman Temple:</strong><br />\n<strong>Mecheri:</strong>–<img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-271178 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022897-300x204.jpg\" alt=\"pathrakaliamman mecheri kovil\" width=\"300\" height=\"204\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022897-300x204.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022897-768x522.jpg 768w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022897.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /><br />\nMecheri is 33 km from Salem and 20 km. away from mettur dam. The temple facing north is</p>\n<p>situated in south-east direction in  the heart of Mecheri town nearby Salem – Dharmapuri highway.</p>\n<p>Timing: 6 am to 8 pm.</p>\n<p>Ph No.04298-278133.</p>\n<p>&nbsp;</p>\n<p><strong>Kailasanathar Koil:</strong></p>\n<p><img decoding=\"async\" loading=\"lazy\" class=\"size-medium wp-image-271174 alignright\" src=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022857-300x202.jpg\" alt=\"kailasanathar tharamangalam kovil\" width=\"300\" height=\"202\" srcset=\"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022857-300x202.jpg 300w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022857-768x516.jpg 768w, https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2018022857.jpg 859w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<p>30 km from Salem in Tharamangalam. There are statue of Rathi and Manmadhan. Recently a lingam has been consecrated for the welfare of the devotees. This lingam is called Paathala Lingam. If the childless people worship they will get child, unmarried people will be married.</p>\n<p>Timing 7.30 am to 1 pm &amp; 4 pm to 8 pm.</p>\n<p>Ph No.04290-252100.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Jama Masjid:</strong><br />\nThe oldest mosque in Salem, situated on the southern bank of the Thirumanimuthu Aru in the heart of the city it was reportedly built by the Mysore reler, Tippu Sulthan. Who is said to have offered prayers here.</p>\n<p>Timing: 9.30 am to 6 pm</p>\n<p>Ph No.0427-2267227.</p>\n",
+                "how_to_reach": {
+                    "by_air": "",
+                    "by_rail": "",
+                    "by_road": ""
+                },
+                "url": "https://salem.nic.in/tourist-place/temples/",
+                "latitude": 11.6008,
+                "longitude": 78.0823,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Salem",
+                "cityID": 16,
+                "districtName": "Salem",
+                "district_lgd_code": 584,
+                "state_lgd_code": 33,
+                "stateName": "Tamil Nadu",
+                "statecode": "TN",
+                "stateID": 29,
+                "placeCategoryName": [],
+                "placeCategoryID": [],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 224723,
+                "imageList": {
+                    "title": "Temples",
+                    "alt": "Salem Famous Temples",
+                    "image": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110122.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110122-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2017/11/2017110122.jpg"
+                },
+                "gallery_images": [],
+                "created_at": "2017-11-01T05:53:04",
+                "updated_at": "2018-02-28T17:35:24",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "ta"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "296ZdYgBvAOITNx46mRD",
+                "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/02/2018022395.jpg",
+                "title": "Key Monastery",
+                "description": "<div class=\"vc_tta-panel-body\">\n<div class=\"wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_start_animation animated\">\n<div class=\"wpb_wrapper\">\n<p>Overlooking Kaza from a height of about 13,500 ft, the Kye monastery is the largest in the valley and holds a powerful sway over the most populous part of the valley around Kaza. The gompa is an irregular heap of low rooms and narrow corridors on a monolithic conical hill. From a distance is resembles the Thiksey monastery near Leh in Ladakh. The irregular prayer chambers are interconnected by dark passages, tortuous staircases and small doors.<br />\nHundreds of lamas receive their religious training in the monastery. It is also known for its beautiful murals, thankas, rare manuscripts, stucco images and peculiar wind instruments that form part of the orchestra whenever Chham is enacted in the gompa in summer. Another interesting aspect of the gompa is its collection of weapons which may have been used to ward off marauders as also to maintain its control over people betraying a church-militant character.</p>\n<p>Thousands of devotees from all over the world were attended the Kalachakra ceremony which was performed in August, 2000 by His Holiness Dalai Lama.Kalachakra initiation (Skt. Abhisheka, Tibetan Wang) is not just an elaborate puja or a religious congregation. It is a workshop in a grand scale to make an earnest effort by both the teacher and disciples to awaken their Buddha nature by the combined forces of teaching, prayer, blessing, devotion, mantra, yoga and meditation. It is an effort by every participant to try to discover the true and permanent peace for the sake of all others. The Buddhists believe mere presence during this elaborate initiation ceremony stretching over a few days, liberates the participant from suffering and bestows on him the bliss of Enlightenment.<br />\nThe ceremony focuses on five main subjects – cosmology, psycho-physiology, initiation, sadhana and Buddhahood. A Kalachakra mandala and Viswatma deitiy in union with his consort are at the centre of this ceremony guiding the disciple through the tedious process of initiation.<br />\nThe gompa is approached by road from Kaza (only 12 km). However, it is only 8.5 kms trek from Kaza.</p>\n</div>\n</div>\n</div>\n",
+                "how_to_reach": {
+                    "by_air": "Nearest Airport is Shimla (341 Km)",
+                    "by_rail": "Nearest Railway Station is Shimla (341 Km)",
+                    "by_road": "via Kinnaur district"
+                },
+                "url": "https://hplahaulspiti.nic.in/tourist-place/key-monastery/",
+                "latitude": 32.2978,
+                "longitude": 78.0119,
+                "totalViews": 1,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Lahul & Spiti",
+                "cityID": 21,
+                "districtName": "Lahul & Spiti",
+                "district_lgd_code": 21,
+                "state_lgd_code": 2,
+                "stateName": "Himachal Pradesh",
+                "statecode": "HP",
+                "stateID": 13,
+                "placeCategoryName": [],
+                "placeCategoryID": [],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 21727,
+                "imageList": {
+                    "title": "Kee Monastary",
+                    "alt": "Kee-Monastary",
+                    "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/02/2018022395.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/02/2018022395-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/02/2018022395.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "Kee Monastary",
+                        "alt": "Kee-Monastary",
+                        "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/02/2018022395.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/02/2018022395-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/02/2018022395.jpg"
+                    }
+                ],
+                "created_at": "2018-03-26T12:12:07",
+                "updated_at": "2018-05-08T05:15:26",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "hi"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "2d6ZdYgBvAOITNx46WTb",
+                "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/05/2018050494.jpg",
+                "title": "Trilokinath Temple",
+                "description": "<p>This temple was constructed in the 10<sup>th</sup> century. It is proved by a stone inscription which was found in the temple complex in 2002 . It is described in this stone inscription that this temple was made by  Dvanjra  Rana which are beloved  to be ancestors of present ‘ Rana  Thakurs  rulers of Triloknath village .  They were believed of  be  helped by King Shell Varman of Chamba who got this temple constructed in ‘Shikher style’  as there are ‘Laxmi Narayan’  temple complex of Chamba . King  Shell Varman  was the founder of Chamba  town .<br />\nThis temple was approximately constructed in the end of  9<sup>th</sup>   century  and in the starting of  10<sup>th</sup> century . Major role was also played by Rajgrana of Chamba Mahayogi  Sidh Charpati Dar ( Charpath Nath ) .  He  had unlimited devotion to Bodhisattva Arya Avalokiteshwar and he had composed 25 shlokas in this glory  which are called “ Avalokiteshwar  strotan Chedem “.</p>\n",
+                "how_to_reach": {
+                    "by_air": "Nearest Airport is Bhuntar (218 Km)",
+                    "by_rail": "Nearest Railway Station is Shimla (393 Km)",
+                    "by_road": "The Rohtang top which is the  gateway to Lahaul valley officially open from April to November 15th i.e. for tourists  only . Triloknath temple is about 45 KM from district Head Quarter Keylong and about 146 KM from Manali. One can reach here by road in the summer season and by helicopter in the winter . Himahcal  Pradesh  Road transport  corporation HRTC runs its buses to & fro from Triloknath . Also large no of taxi are available  in Manali & Kullu  since can be hired ."
+                },
+                "url": "https://hplahaulspiti.nic.in/tourist-place/trilokinath-temple/",
+                "latitude": 32.70476,
+                "longitude": 76.6882,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Lahul & Spiti",
+                "cityID": 21,
+                "districtName": "Lahul & Spiti",
+                "district_lgd_code": 21,
+                "state_lgd_code": 2,
+                "stateName": "Himachal Pradesh",
+                "statecode": "HP",
+                "stateID": 13,
+                "placeCategoryName": [],
+                "placeCategoryID": [],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 22651,
+                "imageList": {
+                    "title": "trilokinath-temple",
+                    "alt": "trilokinath temple",
+                    "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/05/2018050494.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/05/2018050494-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/05/2018050494.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "trilokinath-temple",
+                        "alt": "trilokinath temple",
+                        "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/05/2018050494.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/05/2018050494-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/05/2018050494.jpg"
+                    }
+                ],
+                "created_at": "2018-05-04T07:04:09",
+                "updated_at": "2018-05-08T05:09:47",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "hi"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "2t6ZdYgBvAOITNx46mQd",
+                "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/03/2018040761.jpg",
+                "title": "Shashur Gompa",
+                "description": "<p>Shashur Gompa is a small Olde worlde Buddhist shrine of the Drugpa sect built in 16th Century. It is located 2km from the hill-town of Keylong. Surrounded by beautiful blue pine trees, it is perched at 6000 meters above the valley. The Gompa is known for its learning centre as well as its excellent architecture.</p>\n",
+                "how_to_reach": {
+                    "by_air": "Nearest Airport is Bhuntar (171 Km)",
+                    "by_rail": "Nearest Railway Station is Shimla (346 Km)",
+                    "by_road": "Located around 5 km from Keylong, it can also be accessed from Manali, which lies at a distance of 120 km."
+                },
+                "url": "https://hplahaulspiti.nic.in/tourist-place/shashur-gompa/",
+                "latitude": 32.5794,
+                "longitude": 77.0257,
+                "totalViews": 0,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Lahul & Spiti",
+                "cityID": 21,
+                "districtName": "Lahul & Spiti",
+                "district_lgd_code": 21,
+                "state_lgd_code": 2,
+                "stateName": "Himachal Pradesh",
+                "statecode": "HP",
+                "stateID": 13,
+                "placeCategoryName": [],
+                "placeCategoryID": [],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 22012,
+                "imageList": {
+                    "title": "Shashur Gompa",
+                    "alt": "Shashur -Gompa",
+                    "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/03/2018040761.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/03/2018040761-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/03/2018040761.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "Shashur Gompa",
+                        "alt": "Shashur -Gompa",
+                        "image": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/03/2018040761.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/03/2018040761-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s37647966b7343c29048673252e490f736/uploads/2018/03/2018040761.jpg"
+                    }
+                ],
+                "created_at": "2018-04-07T11:24:32",
+                "updated_at": "2018-05-08T05:08:36",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "hi"
+                ]
+            },
+            {
+                "_index": "touristplace",
+                "_type": "_doc",
+                "_id": "696ZdYgBvAOITNx47mSl",
+                "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072297-1024x285.jpg",
+                "title": "Bansagar Dam",
+                "description": "Bansagar or Ban Sagar Dam is a multipurpose river Valley Project on Son River situated in the Ganges Basin in Madhya Pradesh, India with both irrigation and 435 MW of hydroelectric power generation .",
+                "how_to_reach": {
+                    "by_air": "Nearest Airport is Jabalpur is 253 KM away",
+                    "by_rail": "Nearest Railway Station is Beohari (23 KM) and Shahdol Railway Station(109 KM) is well connected with major cities of the country",
+                    "by_road": "Shahdol 109 KM is well connected by road with major cities of the State as well as other nearby state."
+                },
+                "url": "https://shahdol.nic.in/en/tourist-place/bansagar-dam/",
+                "latitude": 0,
+                "longitude": 0,
+                "totalViews": 1,
+                "totalLikes": 0,
+                "isLiked": 0,
+                "cityName": "Shahdol",
+                "cityID": 23,
+                "districtName": "Shahdol",
+                "district_lgd_code": 429,
+                "state_lgd_code": 23,
+                "stateName": "Madhya Pradesh",
+                "statecode": "MP",
+                "stateID": 17,
+                "placeCategoryName": [
+                    "Natural / Scenic beauty"
+                ],
+                "placeCategoryID": [
+                    324
+                ],
+                "stayDetails": [],
+                "video_url": "",
+                "id": 20820,
+                "imageList": {
+                    "title": "Bansagar Dam",
+                    "alt": "Dam",
+                    "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072297-1024x285.jpg",
+                    "thumb_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072297-150x150.jpg",
+                    "full_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072297.jpg"
+                },
+                "gallery_images": [
+                    {
+                        "title": "Virat Mandir",
+                        "alt": "Temple",
+                        "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072214-1024x285.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072214-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072214.jpg"
+                    },
+                    {
+                        "title": "Bansagar Dam",
+                        "alt": "Dam",
+                        "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072297-1024x285.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072297-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072297.jpg"
+                    },
+                    {
+                        "title": "Independence",
+                        "alt": "azadl",
+                        "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072280-1024x285.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072280-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072280.jpg"
+                    },
+                    {
+                        "title": "Parsuli Resort",
+                        "alt": "Resort",
+                        "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072241.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072241-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072241.jpg"
+                    },
+                    {
+                        "title": "Circuit House",
+                        "alt": "Stay",
+                        "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072280-1-1024x590.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072280-1-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2019/07/2019072280-1.jpg"
+                    },
+                    {
+                        "title": "Kankali Mandir",
+                        "alt": "kankali mandir",
+                        "image": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2018/01/2018031656.jpg",
+                        "thumb_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2018/01/2018031656-150x150.jpg",
+                        "full_img_url": "https://cdn.s3waas.gov.in/s354229abfcfa5649e7003b83dd4755294/uploads/2018/01/2018031656.jpg"
+                    }
+                ],
+                "created_at": "2019-07-22T12:46:17",
+                "updated_at": "2019-07-29T09:35:44",
+                "status": "publish",
+                "languages": [
+                    "en",
+                    "hi"
+                ]
+            }]

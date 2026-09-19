@@ -11,14 +11,24 @@ services:
     environment:
       # single-node mode -- ek hi machine par cluster chalega (POC/local ke liye kaafi hai)
       - discovery.type=single-node
-      # Security plugin (login/password) disable kiya, taaki POC mein bina auth ke
-      # seedha connect ho sake (production mein ye enable karna chahiye)
-      - DISABLE_SECURITY_PLUGIN=true
+
+      # ================================================================
+      # 🔐 SECURITY CONFIGURATION (NATIVE SECURITY ENABLED)
+      # ================================================================
+      # Security plugin ON rakha gaya hai (DISABLE_SECURITY_PLUGIN=false).
+      - "DISABLE_SECURITY_PLUGIN=false"
+
+      # Master admin ka password seedha aapki .env file se load hoga.
+      - "OPENSEARCH_INITIAL_ADMIN_PASSWORD=${OPENSEARCH_ADMIN_PASS}"
+
+      # Local POC/development ke liye HTTPS/SSL off rakha hai taaki certificates
+      # (TLS/PEM files) ka headache na ho. Production mein ye line hatani hogi.
+      - "plugins.security.ssl.http.enabled=false"
+
       # OpenSearch ko kitni memory (RAM) use karne dena hai, wo set kiya
       - "OPENSEARCH_JAVA_OPTS=-Xms512m -Xmx512m"
     ports:
       # Host machine ka port 9201 -> container ke andar OpenSearch ka default port 9200
-      # (9201 isliye kyunki 9200 kisi aur cheez se clash kar raha tha)
       - "9201:9200"
       # Performance Analyzer plugin ka port
       - "9601:9600"
@@ -34,10 +44,13 @@ services:
     restart: unless-stopped
     environment:
       # Dashboards ko batana hai ki OpenSearch kahan chal raha hai
-      # (container ke andar wala internal port 9200 use hota hai, host port nahi)
       - OPENSEARCH_HOSTS=["http://opensearch-node:9200"]
-      # Dashboards ka security plugin bhi disable kiya (OpenSearch ki tarah)
-      - DISABLE_SECURITY_DASHBOARDS_PLUGIN=true
+
+      # ================================================================
+      # 🔐 DASHBOARDS CONNECTION CREDENTIALS (sirf ek admin account -- simple rakha)
+      # ================================================================
+      - OPENSEARCH_USERNAME=${OPENSEARCH_ADMIN_USER}
+      - OPENSEARCH_PASSWORD=${OPENSEARCH_ADMIN_PASS}
     ports:
       # Host port 5602 -> Dashboards ka default port 5601
       - "5602:5601"

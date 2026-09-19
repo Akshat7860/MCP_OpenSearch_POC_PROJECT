@@ -1,6 +1,16 @@
 """
-Seeds OpenSearch with dummy data for the india.gov.in MCP POC.
-Run this once after `docker compose up -d` and before starting the MCP server.
+=====================================================================
+OPENSEARCH SEEDING SCRIPT (INDIA.GOV.IN MCP POC)
+=====================================================================
+WHAT: Dummy data (schemes, services, guidelines, error logs, applications) 
+      ko OpenSearch indices mein populate karta hai.
+WHY: Yeh script `docker compose up -d` ke baad aur MCP server start karne 
+     se pehle ek hi baar run ki jaati hai.
+
+NOTE: OpenSearch native security plugin ENABLED hai (DISABLE_SECURITY_PLUGIN=false).
+Sirf EK admin credential use ho raha hai -- role-based access control (citizen vs
+admin) OpenSearch level par nahi, balki official_groq_client.py ke application
+gatekeeper mein hota hai.
 """
 import os
 import sys
@@ -8,32 +18,53 @@ from datetime import datetime, timedelta
 from opensearchpy import OpenSearch, helpers
 from dotenv import load_dotenv
 
+# .env file se OpenSearch connection credentials aur host/port load karte hain
 load_dotenv()
 
 OPENSEARCH_HOST = os.getenv("OPENSEARCH_HOST", "localhost")
 OPENSEARCH_PORT = int(os.getenv("OPENSEARCH_PORT", "9201"))
+OPENSEARCH_ADMIN_USER = os.getenv("OPENSEARCH_ADMIN_USER", "admin")
+OPENSEARCH_ADMIN_PASS = os.getenv("OPENSEARCH_ADMIN_PASS")
 
+# =====================================================================
+# 🔐 LAYER 2 SECURITY: FAIL-FAST CREDENTIAL CHECK
+# =====================================================================
+# Agar .env mein admin password set hi nahi hai, toh yahin ruk jao -- 
+# taaki koi silent/wrong-default password se connect na ho jaaye.
+if not OPENSEARCH_ADMIN_PASS:
+    sys.exit("ERROR: OPENSEARCH_ADMIN_PASS not set in .env file.")
+
+# =====================================================================
+# 🔐 LAYER 2 SECURITY: OPENSEARCH CLIENT INITIALIZATION
+# =====================================================================
+# Kyunki OpenSearch ab password-protected hai (native security enabled),
+# hume connect karne ke liye Master Admin ke credentials pass karne honge.
 client = OpenSearch(
     hosts=[{"host": OPENSEARCH_HOST, "port": OPENSEARCH_PORT}],
+    http_auth=(OPENSEARCH_ADMIN_USER, OPENSEARCH_ADMIN_PASS),
     use_ssl=os.getenv("OPENSEARCH_USE_SSL", "false").lower() == "true",
     verify_certs=False,
 )
 
-# --- FIX #3: FAIL-FAST VALIDATION ---
-# Agar OpenSearch reachable hi nahi hai, turant clear error do, silently
-# aage badh ke confusing error later mat do.
+# --- FAIL-FAST VALIDATION ---
+# Agar OpenSearch reachable nahi hai ya password galat hai, toh script 
+# yahin ruk jayegi aur ek clear, actionable error message degi.
 if not client.ping():
     sys.exit(
-        f"ERROR: Cannot reach OpenSearch at {OPENSEARCH_HOST}:{OPENSEARCH_PORT}. "
-        f"Is `docker compose up -d` running? Check your .env file."
+        f"ERROR: Cannot reach OpenSearch at {OPENSEARCH_HOST}:{OPENSEARCH_PORT} or Authentication Failed. "
+        f"Is `docker compose up -d` running? Check OPENSEARCH_ADMIN_PASS in your .env file."
     )
 
 today = datetime.now()
 
-
 def days_ago(n):
+    """Helper function jo current date se 'n' din pehle ki date format karke deti hai."""
     return (today - timedelta(days=n)).strftime("%Y-%m-%d")
 
+
+# =====================================================================
+# 📊 DUMMY DATA DEFINITION FOR E-GOVERNANCE PORTAL
+# =====================================================================
 
 schemes = [
     {"title": "PM-Kisan Samman Nidhi", "url_link": "https://pmkisan.gov.in", "description": "Income support scheme for farmer families providing Rs 6000 per year.", "eligibility": "Small and marginal farmer families", "release_date": days_ago(10)},
@@ -82,7 +113,11 @@ INDEX_DATA = {
     "applications": applications,
 }
 
-# --- FIX #1: EXPLICIT MAPPINGS ---
+# =====================================================================
+# 📐 EXPLICIT INDEX MAPPINGS (SCHEMA DEFINITIONS)
+# =====================================================================
+# Har index ke fields ke data types explicitly define kiye gaye hain 
+# taaki OpenSearch unhe sahi tarike se search aur index kar sake.
 INDEX_MAPPINGS = {
     "schemes": {
         "properties": {
@@ -127,18 +162,23 @@ INDEX_MAPPINGS = {
 
 
 def seed():
+    """Main function jo indices ko recreate karta hai aur data bulk mein ingest karta hai."""
     for index_name, docs in INDEX_DATA.items():
+        # Agar index pehle se mojood hai, toh clean slate ke liye use delete kar dete hain
         if client.indices.exists(index=index_name):
             client.indices.delete(index=index_name)
 
+        # Explicit mapping ke sath naya index create karna
         client.indices.create(
             index=index_name,
             body={"mappings": INDEX_MAPPINGS[index_name]},
         )
 
+        # Bulk helpers ke liye actions list taiyar karna
         actions = [{"_index": index_name, "_source": doc} for doc in docs]
 
-        # --- FIX #4: BULK ERROR HANDLING ---
+        # --- BULK ERROR HANDLING ---
+        # helpers.bulk ka use karke fast ingestion karte hain bina crash hue errors capture karne ke liye
         success, errors = helpers.bulk(client, actions, raise_on_error=False)
 
         if errors:
@@ -148,6 +188,7 @@ def seed():
         else:
             print(f"✅ Seeded {success} docs into '{index_name}'")
 
+    # Sabhi indices ko refresh karna taaki data turant search ke liye available ho jaye
     client.indices.refresh(index=",".join(INDEX_DATA.keys()))
     print("\nDone. Indices created:", list(INDEX_DATA.keys()))
 
